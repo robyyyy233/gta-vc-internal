@@ -1,0 +1,9 @@
+﻿  mem.cpp
+  functions.cpp
+  printDisplay.cpp
+  dllmain.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 93 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  gta vc internal.vcxproj -> C:\Users\robyy\source\repos\gta vc internal\Release\gta vc internal.dll
